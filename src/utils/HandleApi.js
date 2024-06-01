@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "https://mern-todo-app-server-3ujh.onrender.com/";
+const baseUrl = "https://mern-todo-app-server-3ujh.onrender.com";
 
 const getAllTodo = (setTodo) => {
   axios.get(baseUrl).then(({ data }) => {
