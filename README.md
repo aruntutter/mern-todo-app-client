@@ -21,7 +21,7 @@ Check out the live demo of the TODO app [here](https://main--mern-todo-crud-app.
 
 ## Server Repository
 
-You can view the server/backtend repository [here](https://github.com/aruntutter/mern-todo-app-server).
+You can view the server/backend repository [here](https://github.com/aruntutter/mern-todo-app-server).
 
 ## Features
 
